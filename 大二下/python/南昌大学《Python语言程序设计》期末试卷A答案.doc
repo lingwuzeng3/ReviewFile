@@ -1,0 +1,1112 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><link rel=File-List  href="南昌大学《Python语言程序设计》期末试卷A答案.files/filelist.xml" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>admin</o:Author><o:LastAuthor>繁华升起</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>7</o:Pages><o:Characters>2352</o:Characters><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOTemplateDocerSaveRecord dt:dt="string" >eyJoZGlkIjoiNjE3ZDEwODNlODc3YzE2MWViM2YxZTdhMDBiNTY0MjAiLCJ1c2VySWQiOiI5Nzk0ODI0ODYifQ==</o:KSOTemplateDocerSaveRecord><o:KSOProductBuildVer dt:dt="string" >2052-12.1.0.21171</o:KSOProductBuildVer><o:ICV dt:dt="string" >57AD5F9FDB4D4CB79C5661A6915B6F66_12</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Print</w:View><w:Compatibility><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"Segoe UI";
+}
+
+@font-face{
+font-family:"微软雅黑";
+}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-parent:"";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+h1{
+mso-style-name:"标题 1";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:center;
+font-family:宋体;
+color:rgb(0,102,204);
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+h2{
+mso-style-name:"标题 2";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:center;
+font-family:宋体;
+color:rgb(0,102,204);
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+h3{
+mso-style-name:"标题 3";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:13.5000pt;
+}
+
+h4{
+mso-style-name:"标题 4";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+h5{
+mso-style-name:"标题 5";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+h6{
+mso-style-name:"标题 6";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+p.15{
+mso-style-name:immersive-translate-close-action;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.16{
+mso-style-name:immersive-translate-modal-title;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:center;
+font-family:宋体;
+color:rgb(51,51,51);
+font-weight:bold;
+font-size:8.0000pt;
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.18{
+mso-style-name:immersive-translate-close;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+color:rgb(102,102,102);
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+p.19{
+mso-style-name:immersive-translate-input;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin:0pt;
+margin-bottom:.0001pt;
+tab-stops:left blank 45.8000pt left blank 91.6000pt left blank 137.4000pt left blank 183.2000pt left blank 229.0000pt left blank 274.8000pt left blank 320.6000pt left blank 366.4000pt left blank 412.2000pt left blank 458.0000pt left blank 503.8000pt left blank 549.6000pt left blank 595.4000pt left blank 641.2000pt left blank 687.0000pt left blank 732.8000pt ;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.21{
+mso-style-name:immersive-translate-link;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+color:rgb(0,123,255);
+font-size:12.0000pt;
+}
+
+p.22{
+mso-style-name:immersive-translate-action-btn;
+margin:0pt;
+margin-bottom:.0001pt;
+border-top:1.0000pt solid rgb(234,76,137);
+mso-border-top-alt:0.5000pt solid rgb(234,76,137);
+border-right:1.0000pt solid rgb(234,76,137);
+mso-border-right-alt:0.5000pt solid rgb(234,76,137);
+border-bottom:1.0000pt solid rgb(234,76,137);
+mso-border-bottom-alt:0.5000pt solid rgb(234,76,137);
+border-left:1.0000pt solid rgb(234,76,137);
+mso-border-left-alt:0.5000pt solid rgb(234,76,137);
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+font-family:宋体;
+color:rgb(234,76,137);
+font-size:12.0000pt;
+}
+
+p.23{
+mso-style-name:immersive-translate-loading-spinner;
+margin-top:0.0000pt;
+margin-right:2.0000pt;
+margin-bottom:0.0000pt;
+margin-left:2.0000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+vertical-align:middle;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.24{
+mso-style-name:immersive-translate-modal-content;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+border-top:1.0000pt solid rgb(136,136,136);
+mso-border-top-alt:0.5000pt solid rgb(136,136,136);
+border-right:1.0000pt solid rgb(136,136,136);
+mso-border-right-alt:0.5000pt solid rgb(136,136,136);
+border-bottom:1.0000pt solid rgb(136,136,136);
+mso-border-bottom-alt:0.5000pt solid rgb(136,136,136);
+border-left:1.0000pt solid rgb(136,136,136);
+mso-border-left-alt:0.5000pt solid rgb(136,136,136);
+padding:20pt 12pt 12pt 12pt ;
+text-align:left;
+background:rgb(254,254,254);
+font-family:'Segoe UI';
+font-size:12.0000pt;
+}
+
+p.25{
+mso-style-name:explanation;
+margin-left:10.0000pt;
+text-align:left;
+font-family:宋体;
+color:rgb(102,102,102);
+font-style:italic;
+font-size:12.0000pt;
+}
+
+p.26{
+mso-style-name:immersive-translate-toast-hidden;
+margin-top:0.0000pt;
+margin-right:10.0000pt;
+margin-bottom:0.0000pt;
+margin-left:36.0000pt;
+text-align:left;
+font-family:宋体;
+text-decoration:underline;
+text-underline:single;
+font-size:12.0000pt;
+}
+
+p.27{
+mso-style-name:immersive-translate-modal-content-in-input;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.28{
+mso-style-name:download-btn;
+margin-top:2.0000pt;
+margin-right:1.0000pt;
+margin-bottom:2.0000pt;
+margin-left:1.0000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:center;
+background:rgb(76,175,80);
+font-family:宋体;
+color:rgb(255,255,255);
+font-size:8.0000pt;
+}
+
+p.29{
+mso-style-name:question;
+margin-bottom:7.5000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.30{
+mso-style-name:immersive-translate-modal-footer;
+margin-top:12.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.31{
+mso-style-name:immersive-translate-cancel-btn;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+background:rgb(89,107,120);
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.32{
+mso-style-name:immersive-translate-toast;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+background:rgb(254,246,249);
+font-family:宋体;
+color:rgb(51,51,51);
+font-size:7.5000pt;
+}
+
+p.33{
+mso-style-name:immersive-translate-primary-link;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+color:rgb(234,76,137);
+font-size:12.0000pt;
+}
+
+p.34{
+mso-style-name:button-container;
+margin-top:15.0000pt;
+margin-right:0.0000pt;
+margin-bottom:15.0000pt;
+margin-left:0.0000pt;
+text-align:center;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.35{
+mso-style-name:immersive-translate-toast-close;
+margin:0pt;
+margin-bottom:.0001pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+font-family:宋体;
+color:rgb(102,102,102);
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+p.36{
+mso-style-name:immersive-translate-modal-body;
+margin-top:12.0000pt;
+word-break:break-all;
+text-align:center;
+font-family:宋体;
+color:rgb(51,51,51);
+font-size:7.0000pt;
+}
+
+p.37{
+mso-style-name:immersive-translate-btn;
+margin-top:0.0000pt;
+margin-right:4.0000pt;
+margin-bottom:0.0000pt;
+margin-left:4.0000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+background:rgb(234,76,137);
+font-family:宋体;
+color:rgb(255,255,255);
+font-size:8.0000pt;
+}
+
+p.38{
+mso-style-name:immersive-translate-modal-body2;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.39{
+mso-style-name:section;
+margin-bottom:15.0000pt;
+border-bottom:1.0000pt solid rgb(221,221,221);
+mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.40{
+mso-style-name:answer;
+margin-left:10.0000pt;
+text-align:left;
+font-family:宋体;
+color:rgb(0,153,51);
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+p.41{
+mso-style-name:immersive-translate-input-loading;
+margin-top:6.0000pt;
+margin-right:0.0000pt;
+margin-bottom:6.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+color:rgb(255,255,255);
+font-size:12.0000pt;
+}
+
+p.42{
+mso-style-name:immersive-translate-toast-content;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.43{
+mso-style-name:imt-image-status;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.44{
+mso-style-name:imt-img-loading;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595.3000pt 841.9500pt;
+mso-header-margin:42.5500pt;
+mso-footer-margin:49.6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><font face="宋体" >南昌大学考试试卷答案</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></h1><h2 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >《</font><font face="宋体" >Python语言程序设计》2020-2021学年秋季学期 A卷</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h2><p class=MsoNormal  align=center  style="margin-top:15.0000pt;margin-right:0.0000pt;margin-bottom:15.0000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:center;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >导出为</font><font face="微软雅黑" >Word文档 </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><h2 style="margin-bottom:15.0000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >一、填空题（每空</font><font face="宋体" >1分，共10分）</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h2><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >1. Python使用______格式划分语句块。 </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >缩进</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >2. Python语言采用异常处理机制。通过______语句来定义代码块，以运行可能抛出的异常代码，通过______语句可以捕获特定的异常并执行相应的处理；通过______语句可以保证及时产生异常，也可以在事后清理资源等。 </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >try...except...finally</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >3. Python语句print(range(1,10,3))的运行结果是______。 </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >range(1, 10, 3)</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><i><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >range对象直接打印会显示其定义而非展开的值</font></span></i><i><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></i></p><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >4. 执行下列Python语句后的输出结果是______,循环执行了______次。 </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >i = -10</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >while i&lt;10:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >i*=i</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >print(i)</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >100, 1</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><i><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >第一次循环</font><font face="微软雅黑" >i=-10*-10=100，不满足i&lt;10条件，循环结束</font></span></i><i><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></i></p><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >5. Python语言通过内置函数______对列表进行排序，通过内置函数______于获取对象的内存地址。 </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >sorted(), id()</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >6. 已知Python语句序列"s = [2,3,4,5,6,2,3,4,5]"，则print(s[-1:-5:-2])的运行结果是______。 </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >[5, 4]</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><i><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >从倒数第一个元素到倒数第五个元素，步长为</font><font face="微软雅黑" >-2</font></span></i><i><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></i></p><h2 style="margin-bottom:15.0000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >二、选择题（每题</font><font face="宋体" >2分，共24分）</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h2><table class=MsoNormalTable  border=0  cellspacing=0  style="border-collapse:collapse;width:100.0000%;margin-left:1.4000pt;
+border:none;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:1.0000pt solid rgb(221,221,221);
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+background:rgb(242,242,242);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="font-family:微软雅黑;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >题号</font></span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:1.0000pt solid rgb(221,221,221);
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+background:rgb(242,242,242);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="font-family:微软雅黑;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >答案</font></span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:1.0000pt solid rgb(221,221,221);
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+background:rgb(242,242,242);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="font-family:微软雅黑;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >解析</font></span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >1</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >C</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >集合可以添加元组</font><font face="微软雅黑" >(5,2)，但不能添加列表[5,2]</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >2</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >B</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >列表推导式生成</font><font face="微软雅黑" >[0,1,2]重复6次，集合去重后为{0,1,2}</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >3</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >A, D</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >tup1=(2)是整数，tup2=(2,)才是元组</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >4</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >B</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >nonlocal修改闭包变量b，从20变为21</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >5</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >C</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >默认参数必须放在非默认参数之后，语法错误</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >6</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >B</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >global修改全局变量x为20，返回400</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >7</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >B</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >os.getcwd()获取当前工作目录</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >8</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >B</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >"w"模式会创建新文件或覆盖已有文件</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >9</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >D</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >正确的三元表达式嵌套写法</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >10</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >A</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >join方法用"|"连接列表元素</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >11</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >D</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >sorted返回排序后的字符列表，原字符串不变</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:1.0000pt solid rgb(221,221,221);mso-border-left-alt:0.5000pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >12</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >C</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:4.0000pt 4.0000pt 4.0000pt 4.0000pt ;border-left:none;mso-border-left-alt:none;
+border-right:1.0000pt solid rgb(221,221,221);mso-border-right-alt:0.5000pt solid rgb(221,221,221);border-top:none;
+mso-border-top-alt:0.5000pt solid rgb(221,221,221);border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >列表没有</font><font face="微软雅黑" >add方法，会抛出AttributeError</font></span><span style="font-family:微软雅黑;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><h2 style="margin-bottom:15.0000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >三、阅读程序题（共</font><font face="宋体" >50分）</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h2><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >1. 仔细阅读下列Python代码，写出代码的运行结果。(5分) </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >def display_value(content,*,count=1):</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >for i in range(count):</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >print(i+1,content[i])</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >display_value([x for x in range(4)])</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >1 0</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >2 1</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >3 2</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >4 3 </font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><i><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >函数显示列表前</font><font face="微软雅黑" >4个元素及其索引(从1开始) </font></span></i><i><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></i></p><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >2. 仔细阅读下列代码，下列代码是输出2~100中所有的孪生素数（相差2的素数对）。请将空白处补充完整。（每空3分，共15分） </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >def prime(n):</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >for i in [（1）]:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >if [（2）]:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >return False</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >else:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >return True</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >for i in range([（3）], [（4）]):</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >if prime(i) == True and prime(i+2) == True:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >[（5）]</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(1) range(2, int(n**0.5)+1)</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(2) n % i == 0</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(3) 2</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(4) 98</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(5) print(i, i+2) </font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >3. 已知下列代码是利用random模块生成100个区间在(0,100)之间的数字并保存在列表中，要求将列表中所有的偶数打印输出。 </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >import random</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >f =lambda [（1）]</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >lst = [ [（2）] for i in range(100)]</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >for i in [（3）]:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >print(i)</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(1) x: x % 2 == 0</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(2) random.randint(1, 99)</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(3) filter(f, lst) </font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >4. 已知下列函数实现了并采用二分法查找某个数字是否在有序列表lst中，如果在的话返回该数字在列表的索引值，否则输出"没有找到"。 </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >def find_value(lst,value):</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >low = 0</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >high = len(lst)-1</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >while [（1）]:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >mid = (low+high)/2</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >if lst[mid] &lt; value:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >low = [（2）]</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >elif lst[mid]&gt;value:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >high = [（3）]</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >else:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >print( [（4）] )</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >[（5）]</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >else:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >print("没有找到{}".format(value))</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:22.6000pt;margin-left:10.0000pt;padding:0pt 0pt 0pt 0pt ;
+mso-pagination:widow-orphan;text-align:left;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(1) low &lt;= high</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(2) mid + 1</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(3) mid - 1</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(4) mid</font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><br></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >(5) return </font></span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><h2 style="margin-bottom:15.0000pt;mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >四、编程题（共</font><font face="宋体" >16分）</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,102,204);
+font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h2><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >1. 编程：已知有一个文件，命名为test.txt，该文件中包含了一篇英文文章。请统计test.txt出现频率排名前十的单词，并生成对应的词频文件frequency.csv。（10分） </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >import re</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >from collections import Counter</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >def count_words():</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >with open('test.txt', 'r') as f:</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >text = f.read().lower()</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >words = re.findall(r'\b\w+\b', text)</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >word_counts = Counter(words)</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >top_10 = word_counts.most_common(10)</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >with open('frequency.csv', 'w') as f:</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >f.write("word,count\n")</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >for word, count in top_10:</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >f.write(f"{word},{count}\n")</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >count_words()</font></span></b><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:7.5000pt;border-bottom:1.0000pt solid rgb(221,221,221);mso-border-bottom-alt:0.5000pt solid rgb(221,221,221);
+padding:0pt 0pt 10pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >2. 编程：输出公元2000年~3000年之间的所有闰年。（6分） </font></span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >def leap_years():</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >for year in range(2000, 3001):</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="宋体" >print(year)</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></b></p><p class=pre  style="margin-bottom:22.6000pt;margin-left:10.0000pt;mso-pagination:widow-orphan;
+mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,153,51);
+font-weight:bold;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >leap_years()</font></span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
